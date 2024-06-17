@@ -1,0 +1,16 @@
+.block {
+    padding: 2px;
+    margin-bottom: 20px;
+    background-color: #f0f0f0;
+    height: 100px;
+  }
+  .block-1 { background-color: #FF5733; } /* Красный */
+  .block-2 { background-color: #33FF57; } /* Зеленый */
+  .block-3 { background-color: #3357FF; } /* Синий */
+  .block-4 { background-color: #FF33A6; } /* Розовый */
+  .block-5 { background-color: #33FFF5; } /* Голубой */
+  .block-6 { background-color: #F5FF33; } /* Желтый */
+  .block-7 { background-color: #FF6F33; } /* Оранжевый */
+  .block-8 { background-color: #8A33FF; } /* Фиолетовый */
+  .block-9 { background-color: #FF5733; } /* Красный */
+  .block-10 { background-color: #33FF57; } /* Зеленый */
